@@ -1,0 +1,5 @@
+*.h5
+*.txt
+*.json
+__pycache__
+test
